@@ -1,4 +1,2 @@
 # Notas
-Cambia
-### Actualizado desde github
-Este es un mensaje editado desde github
+Esto es un repositorio de pruebas modificado
